@@ -4,7 +4,7 @@ Este projeto se trata de um app simples de finanças pessoais, simulando entrada
 
 ## Acesso à Pagina
 
-- Link: 
+- Link: https://jsrwell.github.io/app-financas-pessoais/
 
 ## Tecnologias
 
@@ -15,4 +15,4 @@ Este projeto se trata de um app simples de finanças pessoais, simulando entrada
 
 ## Conteúdos
 
-- Páginas básica de internet
+- Página básica de internet
